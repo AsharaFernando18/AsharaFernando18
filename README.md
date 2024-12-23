@@ -30,13 +30,13 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ashara-fernando" target="_blank">
+  <a href="[https://www.linkedin.com/in/ashara-fernando](https://www.linkedin.com/in/asharafernando?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://github.com/AsharaFernando" target="_blank">
+  <a href="https://github.com/AsharaFernando18" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="mailto:ashara.fernando@example.com">
+  <a href="mailto:fernandosushen2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </div>
