@@ -30,7 +30,7 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/ashara-fernando](https://www.linkedin.com/in/asharafernando?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+  <a href="www.linkedin.com/in/asharafernando" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://github.com/AsharaFernando18" target="_blank">
