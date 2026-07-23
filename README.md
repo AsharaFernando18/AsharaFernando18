@@ -1,152 +1,82 @@
 <div align="center">
+  
+# 👨‍💻 Ashara Fernando
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:1E3A8A,75:2563EB,100:38BDF8&text=Ashara%20Fernando&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+at+SEGI;Full+Stack+Developer;Passionate+Tech+Enthusiast)](https://git.io/typing-svg)
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Software.;Full+Stack+Developer.;Passionate+Problem+Solver.;Always+Learning.;Open+Source+Enthusiast."/>
-
-<br><br>
-
-<a href="https://github.com/AsharaFernando18">
-<img src="https://img.shields.io/github/followers/AsharaFernando18?logo=github&style=for-the-badge&color=181717"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=AsharaFernando18&style=for-the-badge&color=0ea5e9"/>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/asharafdo/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AsharaFernando18)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:fernandosushen2002@gmail.com)
 
 </div>
 
----
+## 🚀 Quick Overview
 
-# 👋 About Me
-
-I'm **Ashara Fernando**, a Software Engineering student passionate about building high-quality software, modern web applications, and intuitive user experiences.
-
-I enjoy turning ideas into real products while continuously learning new technologies and best engineering practices.
-
-- 🎓 Software Engineering Student
-- 💻 Full Stack Developer
-- 🌱 Learning Cloud Computing & System Design
-- 🚀 Interested in AI, Web Technologies & Software Architecture
-- 🤝 Open to collaboration on exciting projects
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cs,dotnet,mongodb,mysql,firebase,tailwind,bootstrap,docker,git,github,vscode,figma,postman,linux&perline=8"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🧠 WellBe | Mental Health Support Mobile Application | Java, SQLite |
-| 💪 Gym Management System | Desktop Management System | C#, SQL Server |
-| 🛒 Marketplace App | Buy & Sell Mobile Platform | Firebase |
-| 🌐 Portfolio Website | Personal Developer Portfolio | React, Tailwind CSS |
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsharaFernando18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsharaFernando18&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=AsharaFernando18&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AsharaFernando18&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsharaFernando18&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-💻 Full Stack Development
-
-☁ Cloud Computing
-
-⚛ React Ecosystem
-
-📱 Mobile Development
-
-🤖 Artificial Intelligence
-
-🧠 System Design
+```javascript
+const ashara = {
+    education: "Software Engineering @ SEGI University",
+    passions: ["Full Stack Development", "Problem Solving", "Innovation"],
+    currentlyLearning: ["Advanced React", "System Architecture", "Cloud Computing"],
+    askMeAbout: ["Web Dev", "Tech", "Software Architecture", "Gaming"],
+    availableFor: "Exciting collaboration opportunities & innovative projects"
+};
 ```
 
----
-
-# 🌍 Connect With Me
+## 💻 Tech Arsenal
 
 <div align="center">
 
-<a href="mailto:fernandosushen2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<a href="https://www.linkedin.com/in/asharafernando">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<a href="https://github.com/AsharaFernando18">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AsharaFernando18&show_icons=true&count_private=true&hide_border=true&title_color=00C7FF&icon_color=00C7FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AsharaFernando18&theme=tokyonight&hide_border=true&stroke=00C7FF&ring=00C7FF&fire=00C7FF" alt="Streak Stats" />
+</div>
+
+## 🌱 Currently Growing
+
+- 📚 Diving deep into System Architecture and Design Patterns
+- 🔍 Exploring Cloud Technologies and DevOps practices
+- 🛠️ Building projects with the MERN stack
+- 🤝 Looking to collaborate on open-source projects
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsharaFernando18&theme=react-dark&hide_border=true&area=true&line=00C7FF&point=00C7FF&bg_color=0d1117" alt="Contribution Graph" width="100%" />
+</div>
+
+<div align="center">
+
+### 🤝 Let's Connect and Build Something Amazing Together!
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AsharaFernando18&color=00C7FF&style=flat-square&label=Profile+Views)](https://github.com/AsharaFernando18)
 
 </div>
 
 ---
 
-# 💭 Quote
-
 <div align="center">
-
-> *"Code is more than syntax—it's about solving problems and creating meaningful experiences."*
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you enjoy my work, consider giving a ⭐ to my repositories.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,40:1E3A8A,75:2563EB,100:38BDF8"/>
-
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
