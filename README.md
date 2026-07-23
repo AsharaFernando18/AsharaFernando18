@@ -1,154 +1,90 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=260&section=header&text=Ashara%20Fernando&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=58"/>
+# Ashara Fernando
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+beautiful+software.;Full+Stack+Developer.;React+%7C+Node.js+%7C+Cloud.;Always+learning+new+technologies.;Turning+ideas+into+products."/>
+**Full Stack Developer · Founder @ Nexitura · Software Engineering, SEGi University**
 
-<br>
-
-<a href="https://github.com/AsharaFernando18">
-<img src="https://img.shields.io/github/followers/AsharaFernando18?style=for-the-badge&color=181717&labelColor=000000"/>
-</a>
-
-<a href="https://github.com/AsharaFernando18">
-<img src="https://img.shields.io/github/stars/AsharaFernando18?style=for-the-badge&color=181717&labelColor=000000"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=AsharaFernando18&style=for-the-badge&color=0ea5e9"/>
-
-</div>
-
----
-
-# 👋 Hello!
-
-I'm **Ashara Fernando**, a Software Engineering student passionate about building scalable applications, beautiful interfaces, and solving real-world problems through technology.
-
-I enjoy creating modern web applications, mobile apps, and exploring cloud technologies while continuously improving my software engineering skills.
-
----
-
-# 🚀 Currently
-
-- 🔭 Building Full Stack Applications
-- 🌱 Learning Cloud Computing & System Design
-- 💡 Exploring AI Integration
-- ⚡ Improving Software Architecture
-- 🤝 Open to Collaboration
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cs,dotnet,mongodb,mysql,firebase,tailwind,bootstrap,docker,git,github,vscode,figma,postman,linux&perline=8"/>
-
-</div>
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧠 WellBe | Mental Health Mobile Application | Java, SQLite |
-| 🛒 Marketplace | Buy & Sell Platform | React, Firebase |
-| 💪 Gym Management System | Desktop Management System | C#, SQL Server |
-| 🌐 Portfolio Website | Personal Portfolio | React, Tailwind |
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsharaFernando18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsharaFernando18&layout=compact&theme=tokyonight&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asharafdo/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AsharaFernando18)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandosushen2002@gmail.com)
 
 </div>
 
 <br>
 
-<div align="center">
+## About
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=AsharaFernando18&theme=tokyonight&hide_border=true"/>
+I'm a Software Engineering student at SEGi University and the founder of **Nexitura**, a freelance studio building web products for clients — from branded landing pages to full platform proposals. I work across the full stack and rely heavily on AI-assisted development tooling to move fast without sacrificing quality.
 
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AsharaFernando18&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsharaFernando18&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# ⚡ Development Activity
-
-```text
-💻 Full Stack Development    ███████████████░░░░ 80%
-
-⚛ React Ecosystem           ██████████████░░░░░ 75%
-
-☁ Cloud Computing           ███████████░░░░░░░░ 60%
-
-📱 Mobile Development        █████████████░░░░░░ 70%
-
-🧠 System Design             ██████████░░░░░░░░░ 55%
-
-🤖 AI Development            █████████░░░░░░░░░░ 45%
+```javascript
+const ashara = {
+  role: "Founder @ Nexitura · Full Stack Developer",
+  education: "Software Engineering, SEGi University",
+  focus: ["Client web development", "Automated trading systems", "AI-assisted dev workflows"],
+  stack: ["React", "Node.js", "MongoDB", "Python", "Three.js"],
+  openTo: "Collaboration on web development and product-focused projects"
+};
 ```
 
----
+<br>
 
-# 🌍 Connect With Me
+## Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<br>
+
+## Featured Work
+
+**Nexitura** — Freelance studio delivering client web builds, from branded landing pages to full product proposals (including a Grab-Food-style marketplace ecosystem).
+
+**Trading Bot Dashboard** — Automated trading system with detailed log analysis (win rate, PnL, slippage, per-symbol performance), currently undergoing a full UI/UX rebuild.
+
+**Education Sector Website** — End-to-end build for a student recruitment/education agency, using AI-assisted development tooling.
+
+**Brand & Identity Design** — Logo design and full color palette systems for client brand identities.
+
+<br>
+
+## GitHub Analytics
 
 <div align="center">
-
-<a href="mailto:fernandosushen2002@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/asharafdo">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/AsharaFernando18">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsharaFernando18&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsharaFernando18&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&background=0d1117" />
 </div>
 
----
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsharaFernando18&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-# 💭 Quote
-
-> **"Great software isn't just code—it creates meaningful experiences."**
-
----
+<br>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+[![Profile Views](https://komarev.com/ghpvc/?username=AsharaFernando18&color=2F81F7&style=flat-square&label=Profile+Views)](https://github.com/AsharaFernando18)
 
-If you like my work, consider giving a ⭐ to my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer"/>
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 </div>
